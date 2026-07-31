@@ -214,6 +214,7 @@ against Node.js 18.x and 20.x.
 ```
 expense-tracker-api/
 ├── README.md
+├── images/
 ├── AI_NOTES.md
 ├── package.json
 ├── expenses.json
