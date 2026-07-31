@@ -4,9 +4,7 @@ A REST API for managing personal expenses — add, view, filter by category,
 calculate totals, and delete entries. Data is persisted to a local JSON file,
 so no database setup is required.
 
-<!-- If you push this to GitHub, replace YOUR_USERNAME/YOUR_REPO below to get
-a live "tests passing" badge from the Actions workflow. -->
-<!-- ![Tests](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/test.yml/badge.svg) -->
+![Tests](https://github.com/abhijeet-1203/expense_tracker_api/actions/workflows/test.yml/badge.svg)
 
 ## Installation
 
