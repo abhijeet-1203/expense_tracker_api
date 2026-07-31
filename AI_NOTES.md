@@ -4,7 +4,7 @@
 
 Claude, ChatGPT, Gemini
 
-## AI Generated
+## Implementation Details
 
 - Full project scaffold: `src/app.js`, `src/server.js`, folder structure
 - `src/utils/fileHandler.js` — JSON file read/write helper
